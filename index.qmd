@@ -4,18 +4,6 @@ subtitle: "Guatemala & Belize | March 15–25, 2026"
 date: "March 1, 2026"
 ---
 
-## Bookings at a Glance
-
-| Booking | Confirmation | Details |
-|---|---|---|
-| United Airlines (GRR → GUA) | **O0P1XY** | March 15 |
-| TagAirlines (GUA → FRS) | **00IZ4F** | March 15 |
-| Jungle Lodge, Tikal | **2041175675302** | March 15–16 ⚠️ Pending confirmation |
-| Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25 |
-| American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
-
----
-
 ## Day-by-Day Itinerary
 
 ### Sunday, March 15 — Travel Day (Grand Rapids → Tikal)
@@ -30,7 +18,6 @@ date: "March 1, 2026"
 
 - Depart: ORD (Chicago) at **9:01 AM**
 - Arrive: GUA (Guatemala City) at **12:41 PM**
-- Seat: 2A | Fare: United Business
 
 ::: {.callout-warning}
 **Tight connection:** You have ~2 hours between landing in Guatemala City and your TagAirlines check-in. Clear customs and immigration quickly — do not check bags through to Flores if possible.
@@ -41,7 +28,6 @@ date: "March 1, 2026"
 - Check-in: **2:40 PM** at GUA
 - Depart: GUA at **4:10 PM**
 - Arrive: FRS (Flores) at **5:10 PM**
-- Baggage: 40 LB included (PLUS fare)
 
 *Evening: Arrive FRS airport ~5:10 PM. Take lodge shuttle directly to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
 
@@ -153,6 +139,18 @@ Suggested activities:
 - [ ] **ATM Cave licensed guide — book ASAP, tours fill quickly**
 - [ ] Accommodation in Belize City if needed — Night of March 19
 - [ ] Water taxi tickets (Belize City ↔ Caye Caulker)
+
+---
+
+## Bookings at a Glance
+
+| Booking | Confirmation | Details |
+|---|---|---|
+| United Airlines (GRR → GUA) | **O0P1XY** | March 15 |
+| TagAirlines (GUA → FRS) | **00IZ4F** | March 15 |
+| Jungle Lodge, Tikal | **2041175675302** | March 15–16 ⚠️ Pending confirmation |
+| Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25 |
+| American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
 
 ---
 
