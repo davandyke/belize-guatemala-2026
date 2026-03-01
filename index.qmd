@@ -2,19 +2,6 @@
 title: "Central America Trip — March 2026"
 subtitle: "Guatemala & Belize | March 15–25, 2026"
 date: "March 1, 2026"
-format:
-  html:
-    theme: cosmo
-    toc: true
-    toc-depth: 2
-    toc-title: "Jump To"
-    toc-location: left
-    self-contained: true
-    smooth-scroll: true
-    code-fold: false
-    page-layout: article
-    grid:
-      body-width: 800px
 ---
 
 ## Bookings at a Glance
