@@ -1,0 +1,188 @@
+---
+title: "Central America Trip — March 2026"
+subtitle: "Guatemala & Belize | March 15–25, 2026"
+date: "March 1, 2026"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    toc-title: "Jump To"
+    toc-location: left
+    self-contained: true
+    smooth-scroll: true
+    code-fold: false
+    page-layout: article
+    grid:
+      body-width: 800px
+---
+
+## Bookings at a Glance
+
+| Booking | Confirmation | Details |
+|---|---|---|
+| United Airlines (GRR → GUA) | **O0P1XY** | March 15 |
+| TagAirlines (GUA → FRS) | **00IZ4F** | March 15 |
+| Jungle Lodge, Tikal | **2041175675302** | March 15–16 ⚠️ Pending confirmation |
+| Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25 |
+| American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
+
+---
+
+## Day-by-Day Itinerary
+
+### Sunday, March 15 — Travel Day (Grand Rapids → Tikal)
+
+**Flight 1 — United UA 2099**
+
+- Depart: GRR (Grand Rapids) at **7:25 AM**
+- Arrive: ORD (Chicago O'Hare) at **7:37 AM**
+- Connection: 1h 24m
+
+**Flight 2 — United UA 2006**
+
+- Depart: ORD (Chicago) at **9:01 AM**
+- Arrive: GUA (Guatemala City) at **12:41 PM**
+- Seat: 2A | Fare: United Business
+
+::: {.callout-warning}
+**Tight connection:** You have ~2 hours between landing in Guatemala City and your TagAirlines check-in. Clear customs and immigration quickly — do not check bags through to Flores if possible.
+:::
+
+**Flight 3 — TagAirlines 5U150**
+
+- Check-in: **2:40 PM** at GUA
+- Depart: GUA at **4:10 PM**
+- Arrive: FRS (Flores) at **5:10 PM**
+- Baggage: 40 LB included (PLUS fare)
+
+*Evening: Arrive FRS airport ~5:10 PM. Take lodge shuttle directly to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
+
+**Jungle Lodge — Reservation #2041175675302**
+
+- Room: Premium, 2 full beds | Total: $132.98 (incl. taxes)
+- Status: ⚠️ Pending confirmation — follow up if no response by March 3
+- Payment: Full amount charged automatically ~March 10
+- Shuttle: One-way FRS airport → lodge ($19/person — confirming with hotel)
+- Contact: [info@junglelodgetikal.com](mailto:info@junglelodgetikal.com) | WhatsApp +502 3185 0223
+
+---
+
+### Monday, March 16 — Tikal National Park → Flores
+
+- **4:00–8:00 AM — Sunrise Tour** ($16/person + park entry) — confirming with hotel
+- Full morning exploring the ruins before day-tripper crowds arrive and heat builds
+- **Check out by 11:00 AM** — shuttle from lodge to Flores island (~1 hr)
+- Check into accommodation in Flores
+- Evening: lakeside dinner in Flores — a proper meal and cold drinks to close out Guatemala
+
+::: {.callout-tip}
+Book your Flores → San Ignacio shuttle for March 17 before leaving for Tikal. Shuttles run from Santa Elena/Flores and fill up.
+:::
+
+---
+
+### Tuesday, March 17 — Flores → San Ignacio, Belize
+
+- Morning: Depart Flores toward the Belize border
+- Cross at **Benque Viejo / Melchor de Mencos** border crossing
+- Arrive San Ignacio, Belize — check into accommodation
+- Afternoon: Explore San Ignacio town, Cahal Pech ruins, or rest
+
+---
+
+### Wednesday, March 18 — ATM Cave (Actun Tunichil Muknal)
+
+::: {.callout-warning}
+**Advance booking required** — ATM Cave tours must be booked with a licensed guide. Confirm your guide reservation before departure.
+:::
+
+- Full-day tour to ATM Cave
+- Swim and hike through the cave system
+- See ancient Mayan artifacts and the famous "Crystal Maiden" skeleton
+- Return to San Ignacio by late afternoon
+
+---
+
+### Thursday, March 19 — San Ignacio → Belize City (Travel Buffer)
+
+- Morning: Depart San Ignacio toward Belize City (~2 hrs by bus or shuttle)
+- Afternoon: Explore Belize City or relax before island transfer
+- Evening: Optional — stay overnight in Belize City for early departure to Caye Caulker
+
+---
+
+### Friday, March 20 — Arrive Caye Caulker
+
+- Water taxi from Belize City Marine Terminal to Caye Caulker (~45 min)
+- **Check-in: 3:00 PM** — Airbnb hosted by Norm, Playa Asuncion
+- Confirmation: **HMDYZAD4J2**
+- Evening: Sunset at The Split, dinner on the island
+
+---
+
+### Saturday–Tuesday, March 21–24 — Caye Caulker
+
+*Days are yours to enjoy island life.*
+
+Suggested activities:
+
+- Snorkeling at Hol Chan Marine Reserve & Shark Ray Alley
+- Manatee watching tour
+- Kayaking and paddleboarding
+- Exploring the village by bicycle
+- Lounging at The Split
+
+---
+
+### Wednesday, March 25 — Fly Home
+
+- **Check out: 10:00 AM** from Airbnb
+- Water taxi: Caye Caulker → Belize City (~45 min) — depart by **11:00 AM** at the latest
+- Transfer to Philip Goldson International Airport (BZE)
+
+**Flight 1 — American Airlines AA 356**
+
+- Depart: BZE (Belize City) at **1:50 PM**
+- Arrive: MIA (Miami) at **6:05 PM**
+- Connection: 1h 54m at MIA
+
+**Flight 2 — American Airlines AA 1678**
+
+- Depart: MIA (Miami) at **7:59 PM**
+- Arrive: GRR (Grand Rapids) at **11:28 PM**
+
+---
+
+## Still To Book
+
+- [x] ~~Tikal lodge — Night of March 15~~ Jungle Lodge booked, #2041175675302 ⚠️ awaiting confirmation
+- [ ] Jungle Lodge shuttle: FRS airport → lodge (March 15) + lodge → Flores (March 16)
+- [ ] Jungle Lodge sunrise tour, March 16 ($16/person + park entry)
+- [ ] Tikal park entry (~$20 USD)
+- [ ] Accommodation in Flores — Night of March 16
+- [ ] Flores/Santa Elena → San Ignacio shuttle — book before leaving for Tikal
+- [ ] Accommodation in San Ignacio — Nights of March 17–18
+- [ ] **ATM Cave licensed guide — book ASAP, tours fill quickly**
+- [ ] Accommodation in Belize City if needed — Night of March 19
+- [ ] Water taxi tickets (Belize City ↔ Caye Caulker)
+
+---
+
+## Key Contacts & Confirmation Numbers
+
+| Item | Confirmation | Notes |
+|---|---|---|
+| United Airlines | O0P1XY | GRR→GUA, March 15 |
+| TagAirlines | 00IZ4F | GUA→FRS, March 15 |
+| Jungle Lodge, Tikal | 2041175675302 | March 15–16, Premium room |
+| Airbnb (Caye Caulker) | HMDYZAD4J2 | Hosted by Norm |
+| American Airlines | DZGOPI | BZE→GRR, March 25 |
+| AAdvantage # | M82E838 | — |
+| United MileagePlus | UA*****356 | — |
+| Jungle Lodge email | [info@junglelodgetikal.com](mailto:info@junglelodgetikal.com) | — |
+| Jungle Lodge WhatsApp | +502 3185 0223 | Faster response |
+
+---
+
+*Last updated March 1, 2026*
