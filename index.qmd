@@ -18,6 +18,7 @@ date: "March 1, 2026"
 
 - Depart: ORD (Chicago) at **9:01 AM**
 - Arrive: GUA (Guatemala City) at **12:41 PM**
+- Seat: 2A | Fare: United Business
 
 ::: {.callout-warning}
 **Tight connection:** You have ~2 hours between landing in Guatemala City and your TagAirlines check-in. Clear customs and immigration quickly — do not check bags through to Flores if possible.
@@ -28,6 +29,7 @@ date: "March 1, 2026"
 - Check-in: **2:40 PM** at GUA
 - Depart: GUA at **4:10 PM**
 - Arrive: FRS (Flores) at **5:10 PM**
+- Baggage: 40 LB included (PLUS fare)
 
 *Evening: Arrive FRS airport ~5:10 PM. Take lodge shuttle directly to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
 
@@ -46,11 +48,12 @@ date: "March 1, 2026"
 - **4:00–8:00 AM — Sunrise Tour** ($16/person + park entry) — confirming with hotel
 - Full morning exploring the ruins before day-tripper crowds arrive and heat builds
 - **Check out by 11:00 AM** — shuttle from lodge to Flores island (~1 hr)
-- Check into accommodation in Flores
+- Check into **Los Amigos Hostel** — Booking ID #45456, pay Q600 cash at check-in
+- King room with lake and jungle views
 - Evening: lakeside dinner in Flores — a proper meal and cold drinks to close out Guatemala
 
 ::: {.callout-tip}
-Book your Flores → San Ignacio shuttle for March 17 before leaving for Tikal. Shuttles run from Santa Elena/Flores and fill up.
+Book your Flores → San Ignacio shuttle for March 17 at the Los Amigos front desk this evening. Shuttles run from Santa Elena/Flores and fill up.
 :::
 
 ---
@@ -58,38 +61,62 @@ Book your Flores → San Ignacio shuttle for March 17 before leaving for Tikal. 
 ### Tuesday, March 17 — Flores → San Ignacio, Belize
 
 - Morning: Depart Flores toward the Belize border
+- **Shuttle options (book at Los Amigos front desk on March 16 evening):**
+  - Los Amigos can arrange directly — easiest option
+  - Or walk to San Juan Travel office in Santa Elena
+  - ~$25-35 USD, 3-4 hours including border crossing
 - Cross at **Benque Viejo / Melchor de Mencos** border crossing
-- Arrive San Ignacio, Belize — check into accommodation
-- Afternoon: Explore San Ignacio town, Cahal Pech ruins, or rest
+- Arrive San Ignacio, Belize — check into **Bella's Backpackers**, Booking #44298
+  - 4 Galves St, San Ignacio | Private room with private bathroom
+  - WhatsApp: +501 632-8868
+- Afternoon: Explore San Ignacio town or choose an activity:
+  - **Cahal Pech ruins** — walking distance from Bella's, small but well preserved Mayan site, cheap entry, good for a half day
+  - **Green Iguana Conservation Project** — quick and fun, walkable from town
+  - **Xunantunich ruins** — 30 min from town, massive Mayan site, hand-cranked river ferry, El Castillo pyramid with incredible views
+  - **Tubing on the Macal or Mopan River** — lazy river tubing through jungle, very chill, great way to meet people
 
 ---
 
 ### Wednesday, March 18 — ATM Cave (Actun Tunichil Muknal)
 
+**Mayawalk Tours — Order #R0SAMLP** ✅ Confirmed
+
+- Meet at Mayawalk office, 19 Burns Avenue, San Ignacio at **8:00 AM**
+- 45-min drive to Tapir Mountain Nature Reserve, 45-min jungle hike to cave entrance
+- ~3 hours inside the cave — swimming, wading, climbing boulders
+- Lunch included (non-vegetarian), return to San Ignacio by ~4:30 PM
+- Balance due on day of tour: **$73.77**
+
 ::: {.callout-warning}
-**Advance booking required** — ATM Cave tours must be booked with a licensed guide. Confirm your guide reservation before departure.
+**Before you go:** Print and sign the liability waiver (front and back, single sheet) and complete the NICH visitor information form. Both are required at check-in.
 :::
 
-- Full-day tour to ATM Cave
-- Swim and hike through the cave system
-- See ancient Mayan artifacts and the famous "Crystal Maiden" skeleton
-- Return to San Ignacio by late afternoon
+::: {.callout-tip}
+**What to wear:** Old tennis shoes with closed toes (they will get soaked — bring flip flops to change into after). Socks mandatory. Modest clothing — no sleeveless shirts. No cameras allowed in the cave.
+:::
 
 ---
 
-### Thursday, March 19 — San Ignacio → Belize City (Travel Buffer)
+### Thursday, March 19 — San Ignacio Free Day
+
+- Rest day or choose an activity:
+  - **Xunantunich ruins** — 30 min from town, massive Mayan site, hand-cranked river ferry, El Castillo pyramid with incredible views. Half day, easy to do independently.
+  - **Barton Creek Cave** — canoe through a cave system with Mayan artifacts and skulls visible from the water. Completely different vibe from ATM — serene and eerie. Small group tour, 3-4 hours.
+  - **Tubing on the Macal or Mopan River** — lazy river tubing through jungle, very chill, great way to meet people
+  - **Cahal Pech ruins** — walking distance from Bella's, good for a relaxed morning
+- Evening: Last night in San Ignacio — dinner and drinks on Burns Avenue
+
+::: {.callout-warning}
+**Action needed:** WhatsApp Bella's at +501 632-8868 to extend booking #44298 by one night — change checkout from March 19 to March 20.
+:::
+
+---
+
+### Friday, March 20 — San Ignacio → Caye Caulker
 
 - Morning: Depart San Ignacio toward Belize City (~2 hrs by bus or shuttle)
-- Afternoon: Explore Belize City or relax before island transfer
-- Evening: Optional — stay overnight in Belize City for early departure to Caye Caulker
-
----
-
-### Friday, March 20 — Arrive Caye Caulker
-
-- Water taxi from Belize City Marine Terminal to Caye Caulker (~45 min)
-- **Check-in: 3:00 PM** — Airbnb hosted by Norm, Playa Asuncion
-- Confirmation: **HMDYZAD4J2**
+- Water taxi from Belize City Marine Terminal to Caye Caulker (~45 min) — buy ticket on the day
+- **Check-in: 3:00 PM** — Airbnb hosted by Norm, Playa Asuncion | Confirmation: **HMDYZAD4J2**
 - Evening: Sunset at The Split, dinner on the island
 
 ---
@@ -98,7 +125,23 @@ Book your Flores → San Ignacio shuttle for March 17 before leaving for Tikal. 
 
 *Days are yours to enjoy island life.*
 
-Suggested activities:
+**Diving — Great Blue Hole & Other Trips** ⭐ Book ahead — March is peak season and spots fill fast
+
+- Full day, 3-tank dive trip: Blue Hole + Half Moon Caye Wall + Long Caye
+- Departs Caye Caulker ~**6:00 AM**, returns ~4:00 PM
+- ~$225-300 USD all inclusive (lunch, tanks, weights)
+- Advanced Open Water certification required (max depth 130 ft)
+
+**Contact these two shops to book Blue Hole and other dives:**
+
+- **Frenchie's Diving** — longest-running shop on Caye Caulker (since 1981), slightly cheaper (~$225), smaller boats. [frenchiesdivingbelize.com](https://www.frenchiesdivingbelize.com)
+- **Sunrise Scuba** — newer, highly rated, personal service, great for multi-day diving. [sunrisescubabelize.com](https://www.sunrisescubabelize.com)
+
+::: {.callout-tip}
+Email or call both shops before arrival to check Blue Hole trip dates and availability — trips typically run twice a week and fill up in peak season.
+:::
+
+**Other suggested activities:**
 
 - Snorkeling at Hol Chan Marine Reserve & Shark Ray Alley
 - Manatee watching tour
@@ -130,15 +173,16 @@ Suggested activities:
 ## Still To Book
 
 - [x] ~~Tikal lodge — Night of March 15~~ Jungle Lodge booked, #2041175675302 ⚠️ awaiting confirmation
-- [ ] Jungle Lodge shuttle: FRS airport → lodge (March 15) + lodge → Flores (March 16)
-- [ ] Jungle Lodge sunrise tour, March 16 ($16/person + park entry)
-- [ ] Tikal park entry (~$20 USD)
-- [ ] Accommodation in Flores — Night of March 16
-- [ ] Flores/Santa Elena → San Ignacio shuttle — book before leaving for Tikal
-- [ ] Accommodation in San Ignacio — Nights of March 17–18
-- [ ] **ATM Cave licensed guide — book ASAP, tours fill quickly**
-- [ ] Accommodation in Belize City if needed — Night of March 19
-- [ ] Water taxi tickets (Belize City ↔ Caye Caulker)
+- [ ] Jungle Lodge shuttle: FRS airport → lodge (March 15) + lodge → Flores (March 16) — confirm with hotel
+- [ ] Jungle Lodge sunrise tour, March 16 ($16/person + park entry) — confirm with hotel
+- [ ] Tikal park entry (~$20 USD) — buy cash at gate
+- [x] ~~Accommodation in Flores~~ Los Amigos Hostel booked, #45456 ✅
+- [ ] Flores → San Ignacio shuttle — book at Los Amigos front desk on March 16 evening
+- [x] ~~Accommodation in San Ignacio~~ Bella's Backpackers booked, #44298 ✅
+- [ ] **Extend Bella's to March 20 checkout** — WhatsApp +501 632-8868
+- [x] ~~ATM Cave licensed guide~~ Mayawalk Tours booked, #R0SAMLP ✅
+- [ ] **Great Blue Hole dive** — contact Frenchie's ([frenchiesdivingbelize.com](https://www.frenchiesdivingbelize.com)) and Sunrise Scuba ([sunrisescubabelize.com](https://www.sunrisescubabelize.com)) — fills fast in peak season
+- [ ] Water taxi tickets (Belize City ↔ Caye Caulker) — buy on the day
 
 ---
 
@@ -149,6 +193,9 @@ Suggested activities:
 | United Airlines (GRR → GUA) | **O0P1XY** | March 15 |
 | TagAirlines (GUA → FRS) | **00IZ4F** | March 15 |
 | Jungle Lodge, Tikal | **2041175675302** | March 15–16 ⚠️ Pending confirmation |
+| Los Amigos Hostel, Flores | **45456** | March 16–17, pay Q600 cash |
+| Bella's Backpackers, San Ignacio | **44298** | March 17–20 (pending extension) |
+| Mayawalk Tours — ATM Cave | **R0SAMLP** | March 18, 8:00 AM |
 | Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25 |
 | American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
 
@@ -161,12 +208,17 @@ Suggested activities:
 | United Airlines | O0P1XY | GRR→GUA, March 15 |
 | TagAirlines | 00IZ4F | GUA→FRS, March 15 |
 | Jungle Lodge, Tikal | 2041175675302 | March 15–16, Premium room |
+| Los Amigos Hostel | 45456 | Flores, March 16 |
+| Bella's Backpackers | 44298 | San Ignacio, March 17–20 |
+| Mayawalk Tours | R0SAMLP | ATM Cave, March 18 |
 | Airbnb (Caye Caulker) | HMDYZAD4J2 | Hosted by Norm |
 | American Airlines | DZGOPI | BZE→GRR, March 25 |
 | AAdvantage # | M82E838 | — |
 | United MileagePlus | UA*****356 | — |
 | Jungle Lodge email | [info@junglelodgetikal.com](mailto:info@junglelodgetikal.com) | — |
 | Jungle Lodge WhatsApp | +502 3185 0223 | Faster response |
+| Bella's Backpackers WhatsApp | +501 632-8868 | Extend booking here |
+| Mayawalk Tours | reservations@mayawalk.com | +501 824-3070 |
 
 ---
 
