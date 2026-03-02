@@ -24,10 +24,13 @@ date: "March 1, 2026"
 
 - Depart: ORD (Chicago) at **9:01 AM**
 - Arrive: GUA (Guatemala City) at **12:41 PM**
-- Seat: 2A | Fare: United Business
 
 ::: {.callout-warning}
 **Tight connection in Guatemala City:** ~2 hours between landing and TagAirlines check-in at 2:40 PM. Clear customs and immigration quickly — do not check bags through to Flores if possible.
+:::
+
+::: {.callout-tip}
+**Cash:** Pull Q800 from the ATM at Guatemala City airport on arrival — covers the hostel plus meals in Flores.
 :::
 
 **Flight 3 — TagAirlines 5U150**
@@ -35,13 +38,11 @@ date: "March 1, 2026"
 - Check-in: **2:40 PM** at GUA
 - Depart: GUA at **4:10 PM**
 - Arrive: FRS (Flores) at **5:10 PM**
-- Baggage: 40 LB included (PLUS fare)
 
 *Evening: Arrive FRS ~5:10 PM. Take lodge shuttle to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
 
 **Jungle Lodge — Reservation #2041175675302**
 
-- Room: Premium, 2 full beds | Total: $132.98 (incl. taxes)
 - Status: ⚠️ Pending confirmation — follow up if no response by March 3
 - Payment: Full amount charged automatically ~March 10 — free cancellation until March 10
 - Shuttle: FRS airport → lodge ($19/person — confirm with hotel)
@@ -52,13 +53,10 @@ date: "March 1, 2026"
 ### Monday, March 16 — Tikal National Park → Flores
 
 - **4:00–8:00 AM — Sunrise Tour** ($16/person + ~$20 park entry cash at gate) — confirm with hotel
-- Full morning in the ruins before day-tripper crowds and heat arrive
+- Full morning in the ruins — climb temples, explore the jungle, watch for wildlife
 - **Check out by 11:00 AM** — shuttle from lodge to Flores island (~1 hr)
 - Check into **Los Amigos Hostel** — Booking ID #45456, pay Q600 cash at check-in
 
-::: {.callout-tip}
-**Cash:** Pull Q800 from the ATM at Guatemala City airport on arrival — covers the hostel plus meals in Flores.
-:::
 - King room with lake and jungle views
 - Evening: lakeside dinner in Flores — cold drinks and a proper meal to close out Guatemala
 
@@ -93,7 +91,7 @@ date: "March 1, 2026"
 - Balance due on day: **$73.77**
 
 ::: {.callout-tip}
-**What to wear/bring:** Old closed-toe shoes (will get soaked — pack flip flops to change into), socks mandatory, modest clothing (no sleeveless shirts). No cameras allowed in the cave. Bring your printed waiver and ID.
+**What to wear/bring:** Old closed-toe shoes (will get soaked — pack flip flops to change into), socks mandatory. No cameras allowed in the cave. Bring your printed waiver and ID.
 :::
 
 ---
@@ -126,7 +124,7 @@ date: "March 1, 2026"
 
 - Full day, 3-tank dive: Blue Hole + Half Moon Caye Wall + Long Caye Aquarium
 - Departs ~**6:00 AM**, returns ~4:00 PM | ~$225-300 USD all inclusive
-- Advanced Open Water required (max depth 130 ft)
+
 - **Frenchie's Diving** — since 1981, slightly cheaper (~$225). [frenchiesdivingbelize.com](https://www.frenchiesdivingbelize.com)
 - **Sunrise Scuba** — newer, highly rated, personal service. [sunrisescubabelize.com](https://www.sunrisescubabelize.com)
 
