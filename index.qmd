@@ -237,7 +237,7 @@ Connection: 1h 54m
 
 ### Pack Setup
 - [ ] Main bag / travel pack
-- [ ] Small daypack (for day trips, Tikal, ATM Cave)
+- [x] Osprey Ultralight Stuff Pack 18L (day trips, Tikal, ATM Cave) ✅ Ordered
 - [ ] Dry bag (water taxis, boat dives, ATM Cave)
 - [ ] Lightweight packing cubes
 - [ ] Plastic bags (laundry separation, wet gear)
@@ -285,6 +285,7 @@ Connection: 1h 54m
 - [ ] Scuba mask and snorkel
 - [ ] Pen (border crossings, customs forms)
 - [ ] Clothesline (drying swimsuits and dive gear)
+- [ ] Headlamp + extra batteries (Tikal sunrise hike in darkness)
 - [ ] Snacks for travel days and ATM Cave
 
 ### Electronics
