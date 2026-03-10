@@ -10,8 +10,9 @@ date: "March 1, 2026"
 
 - Drop Gus off with Tisha
 - Finalize packing
+- [ ] **Travel eSIM** — activate before departure. Airalo or Holafly; regional Central America plan covering Guatemala and Belize.
 
-
+---
 
 ### Sunday, March 15 — Travel Day (Grand Rapids → Tikal)
 
@@ -38,7 +39,7 @@ date: "March 1, 2026"
 
 *Evening: Arrive FRS ~5:10 PM. Take lodge shuttle to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
 
-**Jungle Lodge — Reservation #2041175675302**
+**Jungle Lodge**
 
 - Originally built in 1956 as a base camp for University of Pennsylvania archaeologists excavating Tikal
 - Check-in: 3:00 PM | Check-out: 11:00 AM
@@ -63,7 +64,7 @@ date: "March 1, 2026"
 - Continue exploring the ruins after the sunrise tour — stay for the full morning as the park comes alive
 - **~10:00 AM** — Return to lodge, grab packed/stored luggage, check out
 - **Check out by 11:00 AM** — shuttle from lodge to Flores island (~1 hr)
-- Check into **Los Amigos Hostel** — Booking ID #45456, pay Q600 cash at check-in
+- Check into **Los Amigos Hostel** — pay Q600 cash at check-in
   - Check-in: 1:00 PM | Check-out: 10:00 AM
   - Contact: [amigoshostel@gmail.com](mailto:amigoshostel@gmail.com) · +502 4495 2399
   - King room with lake and jungle views, private bathroom
@@ -86,7 +87,7 @@ date: "March 1, 2026"
 
 - Morning: Shuttle from Flores/Santa Elena toward the Belize border (~$25-35, 3-4 hrs including border crossing). Book through Los Amigos travel agency the night before.
 - Cross at **Benque Viejo / Melchor de Mencos** — Expect a wait
-- Arrive San Ignacio — check into **Bella's Backpackers**, Booking #44298
+- Arrive San Ignacio — check into **Bella's Backpackers**
   - 4 Galves St, San Ignacio | Private room with private bathroom
   - WhatsApp: +501 632-8868
 - **Breakfast options in San Ignacio:**
@@ -103,7 +104,7 @@ date: "March 1, 2026"
 
 ### Wednesday, March 18 — ATM Cave (Actun Tunichil Muknal)
 
-**Mayawalk Tours — Order #R0SAMLP** ✅ Confirmed
+**Mayawalk Tours** ✅ Confirmed
 
 - Meet at Mayawalk office, **19 Burns Avenue, San Ignacio** at **7:30 AM** (between Tandoor Restaurant and Belize Bank)
 - 45-min drive to Tapir Mountain Nature Reserve, 45-min jungle hike to cave entrance
@@ -127,9 +128,10 @@ date: "March 1, 2026"
 
 ### Thursday, March 19 — San Ignacio → Caye Caulker
 
-- **Morning** — Shuttle from San Ignacio to Belize City Marine Terminal ⚠️ Not booked
-- **~Midday** — Arrive Belize City, water taxi to Caye Caulker (~45 min) — buy ticket on the day
-- **2:00 PM** — Check in at Dream Cabanas, Luciano Reyes Street | Confirmation: **H-JPRXFSCTMH7L** ✅ Booked
+- **Morning** — Shuttle from San Ignacio to Belize City Marine Terminal ⚠️ Not booked — timing-sensitive, need enough buffer to catch the water taxi
+  - Ask Amber at Bella's, or book direct: **William's Belize Shuttle** ([williamshuttlebelize.com](https://williamshuttlebelize.com)) · **San Ignacio Shuttles** ([sanignacioshuttles.com](https://www.sanignacioshuttles.com))
+- **~Midday** — Arrive Belize City, water taxi to Caye Caulker (~45 min)
+- **2:00 PM** — Check in at Dream Cabanas, Luciano Reyes Street
   - Cabana, Queen, Courtyard View | Check-out March 20 at 10:00 AM
   - ⚠️ Front desk open 2:00–6:30 PM only — must arrive before 6:30 PM
 - **3:00–5:00 PM** — Check in at Sunrise Scuba office, Avenida Hicaco (required before first dive)
@@ -140,7 +142,7 @@ date: "March 1, 2026"
 ### Friday, March 20 — Caye Caulker (Airbnb check-in + Local Reef dive)
 
 - **8:15 AM – 12:30 PM** — Local Reef dive (see details below)
-- **3:00 PM** — Check in at Airbnb hosted by Norm, Playa Asuncion | Confirmation: **HMDYZAD4J2**
+- **3:00 PM** — Check in at Airbnb hosted by Norm, Playa Asuncion
 - Relax, explore the island
 
 ---
@@ -150,8 +152,6 @@ date: "March 1, 2026"
 *Relax at the Airbnb, dive, and enjoy the island.*
 
 **Diving — Sunrise Scuba** ✅ Deposit sent March 8
-
-[sunrisescubabz@gmail.com](mailto:sunrisescubabz@gmail.com) · [sunrisescubabelize.com](https://www.sunrisescubabelize.com)
 
 | Date | Dive |
 |---|---|
@@ -215,29 +215,19 @@ Connection: 1h 54m
 
 ---
 
-## Todo
-
-- [ ] **Travel eSIM** — get before departure. Airalo or Holafly; look for a regional Central America plan covering both Guatemala and Belize.
-- [ ] **Flores → San Ignacio shuttle, March 17** — asked Amber at Bella's (awaiting reply). Alternate: book at Los Amigos front desk March 16 evening
-- [ ] **San Ignacio → Belize City Marine Terminal shuttle, March 19** — asked Amber at Bella's (awaiting reply). Timing-sensitive — need enough buffer to catch the water taxi. Alternates if Bella's can't do it:
-  - **William's Belize Shuttle** — [williamshuttlebelize.com](https://williamshuttlebelize.com)
-  - **San Ignacio Shuttles** (Sergio/Jamie) — [sanignacioshuttles.com](https://www.sanignacioshuttles.com)
-
----
-
 ## Bookings at a Glance
 
 | Booking | Confirmation | Details |
 |---|---|---|
 | United Airlines (GRR → GUA) | **O0P1XY** | March 15 |
 | TagAirlines (GUA → FRS) | **00IZ4F** | March 15 |
-| Jungle Lodge, Tikal | **2041175675302** | March 15–16 ✅ Confirmed |
+| Jungle Lodge, Tikal | **2041175675302** | March 15–16 |
 | Los Amigos Hostel, Flores | **45456** | March 16–17, pay Q600 cash |
 | Bella's Backpackers, San Ignacio | **44298** | March 17–19 (checkout March 19) |
 | Dream Cabanas, Caye Caulker | **H-JPRXFSCTMH7L** | March 19–20 (checkout March 20) |
 | Mayawalk Tours — ATM Cave | **R0SAMLP** | March 18, 8:00 AM |
 | Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25, hosted by Norm |
-| Sunrise Scuba — 3 dives | ✅ Deposit sent | Mar 21 Esmeralda · Mar 22 Local Reef · Mar 23 Blue Hole |
+| Sunrise Scuba — 3 dives | ✅ Deposit sent | Mar 20 Local Reef · Mar 21 Esmeralda · Mar 23 Blue Hole |
 | American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
 
 ---
@@ -313,7 +303,7 @@ Connection: 1h 54m
 - [ ] Sunglasses (prescription and non prescription)
 - [ ] Hat
 - [ ] Reusable water bottle
-- [ ] Dry bag (water taxis, boat dives, ATM Cave)
+- [ ] Dry bag
 - [ ] Scuba mask and snorkel
 - [ ] Pen (border crossings, customs forms)
 - [ ] Clothesline (drying swimsuits and dive gear)
