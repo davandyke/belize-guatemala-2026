@@ -45,18 +45,17 @@ date: "March 1, 2026"
 - Check-in: 3:00 PM | Check-out: 11:00 AM
 - Shuttle: FRS airport → lodge — awaiting confirmation
 - **Evening program:** National Geographic special on Tikal and the ancient Maya shown in the lodge theater nightly
-- Contact: [info@junglelodgetikal.com](mailto:info@junglelodgetikal.com) | +502 7861 0447
 
 ---
 
 ### Monday, March 16 — Tikal National Park → Flores
 
-- **4:00–8:00 AM — Sunrise Tour** ($16/person + ~$20 park entry cash at gate) — confirm with hotel
-  - ⚠️ **Buy park tickets before entering** — no tickets sold inside the park, sunrise tickets must be purchased in advance
+- **4:00–8:00 AM — Sunrise Tour** 
+  -  **Buy park tickets before entering** — no tickets sold inside the park, sunrise tickets must be purchased in advance
   - Up to 80% chance of cloud cover in the morning — mist is likely but the experience is still worth it
   - Bring bug spray, water, snacks, and sun protection
 - **Key sights at Tikal:**
-  - **Templo IV** — one of the few temples you can climb; commanding views across the jungle canopy; the filming location for Star Wars: A New Hope
+  - **Templo IV** — one of the few temples you can climb; commanding views across the jungle canopy; watch the sunrise from here if the weather is clear
   - **Gran Plaza** — Templo I & II facing each other; clap your hands in the center to hear a quetzal-like echo; climb Templo II for photos
   - **El Mundo Perdido** — astronomical observatory with Teotihuacán-style architecture
   - **Acrópolis del Norte** — funerary complex, richly detailed
@@ -66,7 +65,6 @@ date: "March 1, 2026"
 - **Check out by 11:00 AM** — shuttle from lodge to Flores island (~1 hr)
 - Check into **Los Amigos Hostel** — pay Q600 cash at check-in
   - Check-in: 1:00 PM | Check-out: 10:00 AM
-  - Contact: [amigoshostel@gmail.com](mailto:amigoshostel@gmail.com) · +502 4495 2399
   - King room with lake and jungle views, private bathroom
 - **Afternoon options in Flores** (if energy allows after Tikal):
   - **Jorge's Rope Swing** (Q25, 9am–7pm) — swing into the lake, sunbathe, decompress
@@ -85,11 +83,10 @@ date: "March 1, 2026"
 
 ### Tuesday, March 17 — Flores → San Ignacio, Belize
 
-- Morning: Shuttle from Flores/Santa Elena toward the Belize border (~$25-35, 3-4 hrs including border crossing). Book through Los Amigos travel agency the night before.
+- Morning: Shuttle from Flores/Santa Elena toward the Belize border (~$25-35, 3-4 hrs including border crossing).
 - Cross at **Benque Viejo / Melchor de Mencos** — Expect a wait
 - Arrive San Ignacio — check into **Bella's Backpackers**
   - 4 Galves St, San Ignacio | Private room with private bathroom
-  - WhatsApp: +501 632-8868
 - **Breakfast options in San Ignacio:**
   - **Pop's Restaurant** — Belizean breakfast institution, fry-jacks, flour tortillas, open 6am–3pm
   - **Martha's Kitchen** — local Belizean breakfast, hash fish, longaniza eggs, 6am–3pm
@@ -104,7 +101,7 @@ date: "March 1, 2026"
 
 ### Wednesday, March 18 — ATM Cave (Actun Tunichil Muknal)
 
-**Mayawalk Tours** ✅ Confirmed
+**Mayawalk Tours** 
 
 - Meet at Mayawalk office, **19 Burns Avenue, San Ignacio** at **7:30 AM** (between Tandoor Restaurant and Belize Bank)
 - 45-min drive to Tapir Mountain Nature Reserve, 45-min jungle hike to cave entrance
@@ -121,19 +118,19 @@ date: "March 1, 2026"
 - Extra dry clothes for after
 - Small backpack, reusable water bottle, bug spray, snacks
 - Printed waiver (front and back on one sheet) + valid ID
-- No cameras or electronics — government ban. Stock photos emailed to you afterward from the Mayawalk office.
+- No cameras or electronics — government ban.
 :::
 
 ---
 
 ### Thursday, March 19 — San Ignacio → Caye Caulker
 
-- **Morning** — Shuttle from San Ignacio to Belize City Marine Terminal ⚠️ Not booked — timing-sensitive, need enough buffer to catch the water taxi
+- **Morning** — Shuttle from San Ignacio to Belize City Marine Terminal (2.5–3 hrs)
   - Ask Amber at Bella's, or book direct: **William's Belize Shuttle** ([williamshuttlebelize.com](https://williamshuttlebelize.com)) · **San Ignacio Shuttles** ([sanignacioshuttles.com](https://www.sanignacioshuttles.com))
 - **~Midday** — Arrive Belize City, water taxi to Caye Caulker (~45 min)
 - **2:00 PM** — Check in at Dream Cabanas, Luciano Reyes Street
   - Cabana, Queen, Courtyard View | Check-out March 20 at 10:00 AM
-  - ⚠️ Front desk open 2:00–6:30 PM only — must arrive before 6:30 PM
+  - Front desk open 2:00–6:30 PM only — must arrive before 6:30 PM
 - **3:00–5:00 PM** — Check in at Sunrise Scuba office, Avenida Hicaco (required before first dive)
 - Evening: Sunset at The Split, dinner on the island
 
@@ -142,7 +139,7 @@ date: "March 1, 2026"
 ### Friday, March 20 — Caye Caulker (Airbnb check-in + Local Reef dive)
 
 - **8:15 AM – 12:30 PM** — Local Reef dive (see details below)
-- **3:00 PM** — Check in at Airbnb hosted by Norm, Playa Asuncion
+- **3:00 PM** — Check in at Airbnb, Playa Asuncion
 - Relax, explore the island
 
 ---
@@ -151,7 +148,7 @@ date: "March 1, 2026"
 
 *Relax at the Airbnb, dive, and enjoy the island.*
 
-**Diving — Sunrise Scuba** ✅ Deposit sent March 8
+**Diving — Sunrise Scuba**
 
 | Date | Dive |
 |---|---|
@@ -227,7 +224,7 @@ Connection: 1h 54m
 | Dream Cabanas, Caye Caulker | **H-JPRXFSCTMH7L** | March 19–20 (checkout March 20) |
 | Mayawalk Tours — ATM Cave | **R0SAMLP** | March 18, 8:00 AM |
 | Airbnb – Caye Caulker | **HMDYZAD4J2** | March 20–25, hosted by Norm |
-| Sunrise Scuba — 3 dives | ✅ Deposit sent | Mar 20 Local Reef · Mar 21 Esmeralda · Mar 23 Blue Hole |
+| Sunrise Scuba — 3 dives | Deposit sent | Mar 20 Local Reef · Mar 21 Esmeralda · Mar 23 Blue Hole |
 | American Airlines (BZE → GRR) | **DZGOPI** | March 25 |
 
 ---
@@ -239,7 +236,7 @@ Connection: 1h 54m
 | United Airlines | O0P1XY | GRR→GUA, March 15 |
 | TagAirlines | 00IZ4F | GUA→FRS, March 15 |
 | Jungle Lodge | 2041175675302 | [info@junglelodgetikal.com](mailto:info@junglelodgetikal.com) · WhatsApp +502 3185 0223 |
-| Los Amigos Hostel | 45456 | Flores, pay Q600 cash |
+| Los Amigos Hostel | 45456 | [amigoshostel@gmail.com](mailto:amigoshostel@gmail.com) · +502 4495 2399 · pay Q600 cash |
 | Bella's Backpackers | 44298 | WhatsApp +501 632-8868 |
 | Mayawalk Tours | R0SAMLP | [reservations@mayawalk.com](mailto:reservations@mayawalk.com) · +501 824-3070 |
 | Airbnb (Caye Caulker) | HMDYZAD4J2 | Hosted by Norm |
@@ -303,7 +300,6 @@ Connection: 1h 54m
 - [ ] Sunglasses (prescription and non prescription)
 - [ ] Hat
 - [ ] Reusable water bottle
-- [ ] Dry bag
 - [ ] Scuba mask and snorkel
 - [ ] Pen (border crossings, customs forms)
 - [ ] Clothesline (drying swimsuits and dive gear)
