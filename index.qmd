@@ -6,14 +6,6 @@ date: "March 1, 2026"
 
 ## Day-by-Day Itinerary
 
-### Saturday, March 14 — Pre-Trip
-
-- Drop Gus off with Tisha
-- Finalize packing
-- [ ] **Travel eSIM** — activate before departure. Airalo or Holafly; regional Central America plan covering Guatemala and Belize.
-
----
-
 ### Sunday, March 15 — Travel Day (Grand Rapids → Tikal)
 
 **Flight 1 — United UA 2099**
@@ -27,23 +19,21 @@ date: "March 1, 2026"
 - Depart: ORD (Chicago) at **9:01 AM**
 - Arrive: GUA (Guatemala City) at **12:41 PM**
 
-::: {.callout-tip}
-**Cash:** Pull Q800 from the ATM at Guatemala City airport on arrival — covers the hostel plus meals in Flores.
-:::
-
 **Flight 3 — TagAirlines 5U150**
 
 - Check-in: **2:40 PM** at GUA
 - Depart: GUA at **4:10 PM**
 - Arrive: FRS (Flores) at **5:10 PM**
 
-*Evening: Arrive FRS ~5:10 PM. Take lodge shuttle to Tikal (~1 hr). Check in, dinner at the lodge, sleep to howler monkeys.*
+::: {.callout-note}
+### Sunday Recap
+Early Uber to the airport and a smooth series of flights—managed to get some solid napping in along the way. Upon landing at Flores (FRS), I discovered the hotel hadn't actually arranged the shuttle as they'd claimed, so I hired a private taxi for the trek to Tikal. Once checked into the Jungle Lodge, I got the sunrise tour booked for tomorrow. It kicks off at 4:00 AM local time, which feels a little less hostile when you realize it's 6:00 AM back in Michigan. Showered, grabbed some dinner, and now it's time to get to bed on time.
+:::
 
 **Jungle Lodge**
 
 - Originally built in 1956 as a base camp for University of Pennsylvania archaeologists excavating Tikal
 - Check-in: 3:00 PM | Check-out: 11:00 AM
-- Shuttle: FRS airport → lodge — awaiting confirmation
 - **Evening program:** National Geographic special on Tikal and the ancient Maya shown in the lodge theater nightly
 
 ---
